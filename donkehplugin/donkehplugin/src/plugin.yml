@@ -1,0 +1,5 @@
+name: Donkeh
+version: 1.0
+author: Calvi38
+main : com.calvi38.donkeydupe.DonkeyDupe
+api-version: 1.16
